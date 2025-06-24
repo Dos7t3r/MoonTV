@@ -1,7 +1,7 @@
 {
-  "name": "MoonTV",
-  "short_name": "MoonTV",
-  "description": "影视聚合",
+  "name": "KankanBot",
+  "short_name": "KKBot",
+  "description": "KanKanbot 影视聚合搜索引擎",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
