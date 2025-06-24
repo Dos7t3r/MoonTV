@@ -140,7 +140,7 @@ function AggregatePageClient() {
         ) : !infoReady ? (
           <div className='flex items-center justify-center min-h-[60vh]'>
             <div className='text-gray-500 text-center'>
-              <div className='text-lg font-semibold mb-2'>未找到匹配结果</div>
+              <div className='text-lg font-semibold mb-2'>错误：未找到本剧可播放资源，有问题请联系kkbot@uhappy9ok.top</div>
             </div>
           </div>
         ) : (
